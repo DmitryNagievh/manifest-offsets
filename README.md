@@ -1,2 +1,0 @@
-# manifest-offsets
-manifest

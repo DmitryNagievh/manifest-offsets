@@ -1,0 +1,96 @@
+{
+  "4.6": {
+    "vng": {
+      "64": {
+        "Aimbot": "0x8B0A134",
+        "Instant_Hit": "0xA6F2404",
+        "Recoil_Small": "0x62DCF70",
+        "Small_Cross": "0x62DC38C",
+        "ShootBulletInner": "0x6FF8AD8",
+        "CalcShootRot": "0x703FDB0",
+        "ShootGrenadeBullet": "0x6F9E058",
+        "K2_DrawLine": "0xAE6BE40",
+        "K2_DrawText": "0xAE6C0D0",
+        "K2_DrawTexture": "0xAE6BEC4",
+        "ProjectWorldLocationToScreen": "0xABB07A8",
+        "GetBonePos": "0x6747300",
+        "GetBoneName": "0xA72BC74",
+        "LineOfSightTo": "0xA769A3C",
+        "GetDistanceTo": "0xA4C0274",
+        "GetMuzzleTransform": "0x7011D98",
+        "Unlock_120_Fps": "0x6AF0A30",
+        "No_Grass_Tree": "0x8B02800",
+        "Ipad_View": "0xA64D314"
+      }
+    },
+    "kr": {
+      "64": {
+        "Aimbot": "0x8B0A134",
+        "Instant_Hit": "0xA6F2404",
+        "Recoil_Small": "0x62DCF70",
+        "Small_Cross": "0x62DC38C",
+        "ShootBulletInner": "0x6FF8AD8",
+        "CalcShootRot": "0x703FDB0",
+        "ShootGrenadeBullet": "0x6F9E058",
+        "K2_DrawLine": "0xAE6BE40",
+        "K2_DrawText": "0xAE6C0D0",
+        "K2_DrawTexture": "0xAE6BEC4",
+        "ProjectWorldLocationToScreen": "0xABB07A8",
+        "GetBonePos": "0x6747300",
+        "GetBoneName": "0xA72BC74",
+        "LineOfSightTo": "0xA769A3C",
+        "GetDistanceTo": "0xA4C0274",
+        "GetMuzzleTransform": "0x7011D98",
+        "Unlock_120_Fps": "0x6AF0A30",
+        "No_Grass_Tree": "0x8B02800",
+        "Ipad_View": "0xA64D314"
+      }
+    },
+    "gl": {
+      "64": {
+        "Aimbot": "0x8B0A134",
+        "Instant_Hit": "0xA6F2404",
+        "Recoil_Small": "0x62DCF70",
+        "Small_Cross": "0x62DC38C",
+        "ShootBulletInner": "0x6FF8AD8",
+        "CalcShootRot": "0x703FDB0",
+        "ShootGrenadeBullet": "0x6F9E058",
+        "K2_DrawLine": "0xAE6BE40",
+        "K2_DrawText": "0xAE6C0D0",
+        "K2_DrawTexture": "0xAE6BEC4",
+        "ProjectWorldLocationToScreen": "0xABB07A8",
+        "GetBonePos": "0x6747300",
+        "GetBoneName": "0xA72BC74",
+        "LineOfSightTo": "0xA769A3C",
+        "GetDistanceTo": "0xA4C0274",
+        "GetMuzzleTransform": "0x7011D98",
+        "Unlock_120_Fps": "0x6AF0A30",
+        "No_Grass_Tree": "0x8B02800",
+        "Ipad_View": "0xA64D314"
+      }
+    },
+    "tw": {
+      "64": {
+        "Aimbot": "0x8B0A134",
+        "Instant_Hit": "0xA6F2404",
+        "Recoil_Small": "0x62DCF70",
+        "Small_Cross": "0x62DC38C",
+        "ShootBulletInner": "0x6FF8AD8",
+        "CalcShootRot": "0x703FDB0",
+        "ShootGrenadeBullet": "0x6F9E058",
+        "K2_DrawLine": "0xAE6BE40",
+        "K2_DrawText": "0xAE6C0D0",
+        "K2_DrawTexture": "0xAE6BEC4",
+        "ProjectWorldLocationToScreen": "0xABB07A8",
+        "GetBonePos": "0x6747300",
+        "GetBoneName": "0xA72BC74",
+        "LineOfSightTo": "0xA769A3C",
+        "GetDistanceTo": "0xA4C0274",
+        "GetMuzzleTransform": "0x7011D98",
+        "Unlock_120_Fps": "0x6AF0A30",
+        "No_Grass_Tree": "0x8B02800",
+        "Ipad_View": "0xA64D314"
+      }
+    }
+  }
+}
